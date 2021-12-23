@@ -1,6 +1,3 @@
-# ParticlePhysics
-Particle physics
-
 **THAT'S WHY PHYSICS IS COOL**
 
 *#staynerd*
